@@ -7,6 +7,8 @@ datasets for general machine learning including:
    a. Wine Quality (Classification)
    
    b. Diabetes Data (Classification)
+   
+   c. Titantic Data (Classification)
 
    
 2. Part2 deep learning
