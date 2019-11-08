@@ -18,6 +18,6 @@ datasets for deep learning including:
    
    b. CIFAR
    
-   c. ImageNet
+   
     
     
